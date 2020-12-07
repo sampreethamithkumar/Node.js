@@ -1,5 +1,5 @@
 {
-  "name": "npm",
+  "name": "lion-lib-sampreeth-amith-07",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,8 +8,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "underscore": "^1.4.0"
-  }
+  "license": "ISC"
 }
